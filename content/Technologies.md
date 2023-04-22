@@ -10,9 +10,6 @@ tags:
     - algorithm
 ---
 
-## Resources
-
-[National Cancer Institute](https://www.cancer.gov/research/resources): NCI Resources, includes analysis tool, datasets, lab tools, and other resources.
 
 
 --------

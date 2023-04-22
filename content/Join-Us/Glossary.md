@@ -25,7 +25,6 @@ tags:
 -   Coronal plane divides the body between front and back portion,
 -   Transverse (or horizontal or cross-sectional) plane divides the body into superior and inferior halves
 
-
 ## Regulatory Terminologies
 - 21 CFR Part 11 / Annex 11: US FDA and EU regulation on electronic records, digital signatures, and document control.
 - 21 CFR Part 111: FDA issued guidance on dietary supplements as part of current Good Manufacturing Practice (cGMP), the guidance requires dietary supplement manufactures to have proper control in place for manufacturing, testing, quality control, quarantine, packaging, labeling, and distribution.

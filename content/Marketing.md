@@ -18,6 +18,20 @@ For example, improvement in ease of use may capture the attention of physicians,
 - Cost reduction
 - Improvement of outcome
 
+# Expanding Reimbursement for New Technology
+
+## Step 1: Assess the Reimbursement Landscape
+
+## Step 2: Develop Pivotal Clinical Trial Evidence
+
+## Step 3: Expand Existing or Pursue New Coding
+
+## Step 4: Coverage Decision
+
+## Step 5: Payment
+
+
+
 --------
 ## Version History
 - 06.05.2017 Initial Revision
