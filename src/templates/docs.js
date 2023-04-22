@@ -17,6 +17,17 @@ export default class MDXRuntimeTest extends Component {
     if (!data) {
       return this.props.children;
     }
+    if (Object.keys(data).length == 2){
+      return (
+        <div>
+          <center><img src='/image/404 Error Panda.png' alt={'404 Error Picture of Confused Lab Panda'} width="400"
+                       height="450" /></center>
+          <center><h1>Error 404: Page Not Found</h1></center>
+          <center><h3> Oops. Something went terribly wrong...our team of panda is investigating this anomaly.</h3></center>
+          <center><a href='http://www.inventhealth.care' alt={'Homepage Link'}><h3> Let's Go Home</h3></a> </center>
+        </div>
+      );
+    }
     const {
       allMdx,
       mdx,

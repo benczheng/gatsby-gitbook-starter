@@ -1,7 +1,12 @@
 ---
-title: "Syntax Highlighting"
+title: "Ideation"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
+cover: "https://unsplash.it/400/300/?random?TheFallenTime"
+date: "09/22/2017"
+category: "Regulatory"
+tags:
+  - Regulatory Affairs
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
