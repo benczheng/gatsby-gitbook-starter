@@ -10,7 +10,7 @@ tags:
     - algorithm
 ---
 
-
+Those of us that works at the cutting edge of technology must be able to learn new technologies as a matter of basic professional practice. This is becoming increasingly difficult as new technologies become available at an increasingly fanatical pace.
 
 --------
 ## Version History
